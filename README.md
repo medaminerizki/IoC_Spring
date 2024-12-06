@@ -46,7 +46,7 @@ Les scénarios couverts :
 ### Diagramme de classes
 Le diagramme suivant illustre la structure des classes et les relations entre elles dans le cadre de l'injection des dépendances.
 
-![Diagramme de classes](screens/diagram.png)
+![Diagramme de classes](IOC_Spring-master/screens/diagram.png)
 
 ---
 
@@ -55,12 +55,12 @@ Le diagramme suivant illustre la structure des classes et les relations entre el
 #### Version base de données
 Cette capture montre la configuration XML utilisée pour injecter des dépendances dans le contexte d'une base de données.
 
-![XML - Base de données](screens/xml_db.png)
+![XML - Base de données](IOC_Spring-master/screens/xml_db.png)
 
 #### Version web service
 Cette capture montre la configuration XML utilisée pour injecter des dépendances dans le contexte d'un web service.
 
-![XML - Web service](screens/xml_web.png)
+![XML - Web service](IOC_Spring-master/screens/xml_web.png)
 
 ---
 
@@ -69,12 +69,12 @@ Cette capture montre la configuration XML utilisée pour injecter des dépendanc
 #### Version base de données
 Cette capture montre l'utilisation des annotations pour injecter des dépendances dans le contexte d'une base de données.
 
-![Annotations - Base de données](screens/annot_db.png)
+![Annotations - Base de données](IOC_Spring-master/screens/annot_db.png)
 
 #### Version web service
 Cette capture montre l'utilisation des annotations pour injecter des dépendances dans le contexte d'un web service.
 
-![Annotations - Web service](screens/annot_web.png)
+![Annotations - Web service](IOC_Spring-master/screens/annot_web.png)
 
 ---
 
